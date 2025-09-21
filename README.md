@@ -1,5 +1,5 @@
 # Expo Supabase Photo Sharing Demo
-Expo SDK 54 Photo Sharing sample using Cloudinary Service 
+Expo SDK 54 Type Script Photo Sharing sample using Cloudinary Cloud Service 
 Steps:
 - git clone
 - Create your free Supabase/ Cloudinary account
